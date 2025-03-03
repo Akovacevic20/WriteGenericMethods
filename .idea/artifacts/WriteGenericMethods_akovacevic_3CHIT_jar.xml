@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WriteGenericMethods_akovacevic_3CHIT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WriteGenericMethods_akovacevic_3CHIT_jar</output-path>
+    <root id="archive" name="WriteGenericMethods_akovacevic_3CHIT.jar">
+      <element id="module-output" name="WriteGenericMethods_akovacevic_3CHIT" />
+    </root>
+  </artifact>
+</component>
