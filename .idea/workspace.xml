@@ -9,18 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49736dfe-adcd-48c3-b3da-b5888d0e2317" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WriteGenericMethods_akovacevic_3CHIT_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WriteGenericMethods_akovacevic_3CHIT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="49736dfe-adcd-48c3-b3da-b5888d0e2317" name="Changes" comment="Commit of whole class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,11 +63,24 @@
       <updated>1740746945365</updated>
       <workItem from="1740746946450" duration="640000" />
       <workItem from="1740979673215" duration="1577000" />
-      <workItem from="1740981684841" duration="3800000" />
+      <workItem from="1740981684841" duration="4133000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit of whole class">
+      <option name="closed" value="true" />
+      <created>1740988970254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740988970254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit of whole class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit of whole class" />
   </component>
 </project>
